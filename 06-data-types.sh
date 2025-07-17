@@ -3,6 +3,8 @@
 NUMBER1=100
 NUMBER2=200
 
+#this is a comment
+
 TIMESTAMP=$(date)
 echo "script executed at: $TIMESTAMP"
 SUM=$(($NUMBER1+$NUMBER2))
